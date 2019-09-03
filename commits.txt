@@ -1,0 +1,23 @@
+commit b0c6523fd95b225e4bafaf296e30ed73ab4ff808
+Author: ARLEY AQUINO <43620552+ArleyAquino@users.noreply.github.com>
+Date:   Mon Sep 2 10:42:22 2019 -0500
+
+    Create README.md
+
+commit dbb67547c411c60e5172fe7344d7d343f3e3eac5
+Author: arley aquino <armaaquinoga@ittepic.edu.mx>
+Date:   Mon Sep 2 10:00:40 2019 -0500
+
+    he agregado un gitignore
+
+commit f5634de7bdd8b89305f2fd7cb009ad8db9bfb189
+Author: arley aquino <armaaquinoga@ittepic.edu.mx>
+Date:   Thu Aug 29 10:22:33 2019 -0500
+
+    ahora el index.html tiene codigo html
+
+commit 4a465d92311944263a29e9bfc89f44ee277f7888
+Author: arley aquino <armaaquinoga@ittepic.edu.mx>
+Date:   Wed Aug 28 10:48:42 2019 -0500
+
+    mi primer commit
